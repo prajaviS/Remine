@@ -779,7 +779,7 @@ header {
     width: 100%;
     margin: 10vh auto;
     height: 100vh;
-    background: linear-gradient(rgba(1, 1, 1, .5), rgba(1, 1, 1, .5)), url("ft.jpg");
+    background: linear-gradient(rgba(1, 1, 1, .5), rgba(1, 1, 1, .5)), url("images/ft.jpg");
     background-size: cover;
     overflow: hidden;
     position: relative;
@@ -831,7 +831,7 @@ header {
 }
 
 .wave {
-    background: url(bg2.jpg) repeat-x;
+    background: url(images/bg2.jpg) repeat-x;
     position: absolute;
     top: -198px;
     width: 6400px;
